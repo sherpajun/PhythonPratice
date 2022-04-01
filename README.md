@@ -6,4 +6,5 @@
 쥬피터를 활용하여 스크래핑 하는법
 보강 예정
 #Deep Learning 준비
+<br>need more knowledge
 끝
